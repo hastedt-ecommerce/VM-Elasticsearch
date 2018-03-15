@@ -1,0 +1,6 @@
+---
+config:
+  hostname: 'elasticsearch'
+  vm:
+    memory: '4096'
+    cpus: '2'
